@@ -12,7 +12,6 @@ choosing font style ,family and much more .
 
 there is 3 common ways to change the color 
 
-1- RGB :
-<h1 style="background-color:rgb(255, 99, 71);">...</h1>
-2-the color name : <h1 style="background-color:DodgerBlue;">Hello World</h1>
-3-HEX :#ff6347
+1- RGB : style="background-color:rgb(255, 99, 71)
+2-the color name :  style="background-color:DodgerBlue
+3-HEX 
